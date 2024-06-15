@@ -8,3 +8,5 @@ the objective of the project is to leverage data analytics and advanced technolo
 
 ##project demonstration link : **https://drive.google.com/file/d/1CBCHxragtRTlBK1YCGwPBiBNr5lyX03A/view?usp=sharing**
 
+##dashboard :**https://drive.google.com/file/d/1J9uwd_2Oxlx52Ghf_982_x0b_Ml7qkLI/view?usp=sharing**
+##vishual pdf :**https://drive.google.com/file/d/1YEOpb-O71-JqsemLUtbHnsnscqliWmjO/view?usp=sharing**
